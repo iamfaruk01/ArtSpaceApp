@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">16_Art_Space</string>
+    <string name="titleImage1">1. The Persistence of Memory</string>
+    <string name="artistImage1">Salvador Dalí </string>
+    <string name="yearImage1">(1931)</string>
+
+    <string name="titleImage2">2. Guernica</string>
+    <string name="artistImage2">Pablo Picasso </string>
+    <string name="yearImage2">(1937)</string>
+
+    <string name="titleImage3">3. The Starry Night</string>
+    <string name="artistImage3">Vincent van Gogh </string>
+    <string name="yearImage3">(1889)</string>
+
+    <string name="titleImage4">4. Water Lilies</string>
+    <string name="artistImage4">Claude Monet </string>
+    <string name="yearImage4">(1896–1926)</string>
+
+</resources>
